@@ -1097,3 +1097,72 @@ table{
     background-color: #579BE7 !important;
     text-decoration: underline;
 }
+
+
+/* Coloured Heading Blocks */
+.blue-heading{
+  color: #fff;
+  background: #579BE7;
+  padding: 20px 10px;
+  margin-top: 0;
+}
+
+.red-heading{
+  color: #fff;
+  background: #F67069;
+  padding: 20px 10px;
+  margin-top: 0;
+}
+
+.green-heading{
+  color: #fff;
+  background: #39CA74;
+  padding: 20px 10px;
+  margin-top: 0;
+}
+
+/* Tab colours */
+
+.nav-tabs-red > li.active > a,
+.nav-tabs-red > li.active > a:hover,
+.nav-tabs-red > li.active > a:focus {
+  color: #fff;
+  cursor: default;
+  background-color: #F67069;
+  border: none;
+  border-bottom-color: #F67069;
+  font-weight: 500;
+}
+.nav-tabs-red > li > a:hover{
+  color: #fff;
+  cursor: pointer;
+  background-color: #F67069;
+  border: none;
+  border-bottom-color: transparent;
+}
+
+.nav-tabs-red {
+  border-bottom: 2px solid #F67069;
+}
+
+.nav-tabs-green > li.active > a,
+.nav-tabs-green > li.active > a:hover,
+.nav-tabs-green > li.active > a:focus {
+  color: #fff;
+  cursor: default;
+  background-color: #39CA74;
+  border: none;
+  border-bottom-color: #39CA74;
+  font-weight: 500;
+}
+.nav-tabs-green > li > a:hover{
+  color: #fff;
+  cursor: pointer;
+  background-color: #39CA74;
+  border: none;
+  border-bottom-color: transparent;
+}
+
+.nav-tabs-green {
+  border-bottom: 2px solid #39CA74;
+}
