@@ -142,40 +142,40 @@ nav .container-fluid{
   height: 320px;
 }
 
-.jumbotron-features{
+.jumbotron-alt1{
   margin: 0 auto;
   padding: 0;
   text-align: center;
-  background-image:url('../graphics/header-features.png');
+  background-image:url('../graphics/header-3.png');
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
-.jumbotron-story{
+.jumbotron-alt2{
   margin: 0 auto;
   padding: 0;
   text-align: center;
-  background-image:url('../graphics/header-story.png');
+  background-image:url('../graphics/banner.jpg');
   max-width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
-.jumbotron-team{
+.jumbotron-alt3{
   margin: 0 auto;
   padding: 0;
   text-align: center;
-  background-image:url('../graphics/header-team.png');
+  background-image:url('../graphics/header-home-old.png');
   max-width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
-.jumbotron-trial{
+.jumbotron-alt4{
   margin: 0 auto;
   padding: 0;
   text-align: center;
