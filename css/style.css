@@ -142,6 +142,10 @@ nav .container-fluid{
   height: 320px;
 }
 
+.smaller-jumbotron{
+  height: 240px;
+}
+
 .jumbotron-alt1{
   margin: 0 auto;
   padding: 0;
@@ -218,7 +222,7 @@ nav .container-fluid{
 
 .red-static{
   color: #fff;
-  background: #F67069;
+  background: #F67069 !important;
 }
 
 .red-static a{
@@ -543,6 +547,7 @@ input{
   margin-bottom: 25px;
   box-shadow: 0;
   -webkit-box-shadow: 0;
+  margin-left: -50px;
 }
 
 textarea{
@@ -1027,10 +1032,15 @@ span{
 #sign-up{
   background: #579BE7;
   padding-top: 30px;
+  font-size: 1.2em;
+  font-weight: 300;
+  line-height: 2;
+  text-align: left;
 }
 
 #sign-up label{
   color: #fff;
+  float: left;
 }
 
 .trial-form h4{
