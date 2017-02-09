@@ -1191,7 +1191,7 @@ table{
 /* Unsubscribe styles */
 
 #unsubscribe label{
-  margin-left: -50px;
+  margin-left: -50px !important;
 }
 
 #unsubscribe input{
