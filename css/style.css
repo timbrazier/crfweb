@@ -1176,3 +1176,14 @@ table{
 .nav-tabs-green {
   border-bottom: 2px solid #39CA74;
 }
+
+
+/* Testimonials styling */
+
+.testimonials img{
+  float: left;
+}
+
+.testimonials p{
+  float: left;
+}
