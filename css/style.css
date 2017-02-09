@@ -1190,10 +1190,6 @@ table{
 
 /* Unsubscribe styles */
 
-#unsubscribe label{
-  margin-left: -50px !important;
-}
-
-#unsubscribe input{
+.move-left{
   margin-left: -50px !important;
 }
