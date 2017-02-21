@@ -144,6 +144,7 @@ nav .container-fluid{
 
 .smaller-jumbotron{
   height: 200px;
+	text-align: center;
 }
 
 .jumbotron-alt1{
